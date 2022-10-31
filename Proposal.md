@@ -8,6 +8,6 @@ user/mahasiswa yang sedang mencari menu apa yang sekarang dibuat tidak lagi mera
 - User membuka aplikasi untuk mencari resep
 - Aser diberikan 2 pilihan (melihat langsung resep ataupun menuju link tentang ulasan resep dan alasan bahan yang digunakan.
 - Admin mengupdate informasi sesuai dengan perkembangan jaman/trend yang ada <br/>
- ![Img 1](img/Diagram Case.drawio.png)
+ ![Img 1](Img/Diagram Case.drawio.png)
 <br/>
 ## UX Wireframe
