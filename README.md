@@ -1,4 +1,7 @@
-
+## Teori Pengembangan Aplikasi WEB
+Nama : Muhammad Rizky M.P.S. <br />
+NIM : 1207050082 <br />
+Nama Aplikasi Web : FoodKost <br/>
 ## Available Scripts
 
 Di direktori proyek, kamu dapat dijalankan dengan:
