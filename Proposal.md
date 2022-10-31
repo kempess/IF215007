@@ -6,7 +6,8 @@ user/mahasiswa yang sedang mencari menu apa yang sekarang dibuat tidak lagi mera
 <br/>
 ## Use Case
 - User membuka aplikasi untuk mencari resep
-- user diberikan 2 pilihan (melihat langsung resep ataupun menuju link tentang ulasan resep dan alasan bahan yang digunakan.
-- admin mengupdate informasi sesuai dengan perkembangan jaman/trend yang ada.
+- Aser diberikan 2 pilihan (melihat langsung resep ataupun menuju link tentang ulasan resep dan alasan bahan yang digunakan.
+- Admin mengupdate informasi sesuai dengan perkembangan jaman/trend yang ada.
+ [image][https://github.com/kempess/IF215007/blob/master/img/Diagram%20Case.drawio.png]
 <br/>
 ## UX Wireframe
